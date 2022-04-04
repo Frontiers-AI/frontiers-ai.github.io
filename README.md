@@ -1,10 +1,7 @@
-# *Frontiers in AI*
+![Frontiers in AI](images/frontiers_in_AI.png)
 
 ## Summary
 Explore artificial intelligence (AI) and how it is used to solve real-world problems in a wide variety of disciplines. Presentations will be from faculty and industry experts who study AI technologies in science, art, medicine, business, and more, and will equip students to think about how AI can be applied to their areas of interest. Intended for students from any major/discipline, no technical experience needed. No prerequisites.
-
-![Frontiers in AI](images/frontiers_in_AI.png)
-
 
 ## Registration information:
 * [BSC2930, Class 28343](https://one.uf.edu/soc/?category=%22CWSP%22&term=%222228%22&class-num=%2228343%22): 1 credit, online course, synchronous or asynchronous.
@@ -28,12 +25,11 @@ This course will expose you to basic concepts of AI technologies and how they ar
 
 ## A typical week
 
-For each class students should:
-
-1. Prepare for class each week by doing the assigned reading in Perusall (we'll talk about this in our first class meeting, so there is no reading assigned for the first meeting).
-
+Most sessions are presentations from faculty or industry leaders working in AI.
+1. Prepare for class each week by doing the assigned reading in Perusall.
 1. Attend the synchronous online class meetings - Tuesday 7th Period ET(1:55 pm – 2:45 pm).
-   * Sessions will be recorded for students who are not able to attend synchronously. However, if possible, synchronous attendance is preferrable as you can interact with the presenters.
+    * Sessions will be recorded for students who are not able to attend synchronously. However, if possible, synchronous attendance is preferrable as you can interact with the presenters.
+1. Some sessions will have hands-on demos of AI technologies.
 
 ## Contact
 
