@@ -1,9 +1,14 @@
 # *Frontiers in AI*
 
+## Summary
+Explore artificial intelligence (AI) and how it is used to solve real-world problems in a wide variety of disciplines. Presentations will be from faculty who study AI technologies in science, art, medicine, business, and more, and will equip students to think about how AI can be applied to their areas of interest. Intended for students from any major/discipline, no technical experience needed.
 
 ![Frontiers in AI](images/frontiers_in_AI.png)
 
-Explore artificial intelligence (AI) and how it is used to solve real-world problems in a wide variety of disciplines. Presentations will be from faculty who study AI technologies in science, art, medicine, business, and more, and will equip students to think about how AI can be applied to their areas of interest. Intended for students from any major/discipline, no technical experience needed.
+
+## Registration information:
+* BSC2930, section 2H86: 1 credit, online course, synchronous or asynchronous.
+* BSC2930, section 2DER: Dual enrolment students, please coordinate with your advisor
 
 ## About *Frontiers in AI*
 
