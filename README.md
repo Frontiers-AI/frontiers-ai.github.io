@@ -7,8 +7,8 @@ Explore artificial intelligence (AI) and how it is used to solve real-world prob
 
 
 ## Registration information:
-* BSC2930, section 2H86: 1 credit, online course, synchronous or asynchronous.
-* BSC2930, section 2DER: Dual enrolment students, please coordinate with your advisor
+* [BSC2930, Class 28343](https://one.uf.edu/soc/?category=%22CWSP%22&term=%222228%22&class-num=%2228343%22): 1 credit, online course, synchronous or asynchronous.
+* BSC2930, Class 28342: Dual enrolment students, please coordinate with your advisor
 
 ## About *Frontiers in AI*
 
@@ -35,3 +35,6 @@ For each class students should:
 1. Attend the synchronous online class meetings - Tuesday 7th Period ET(1:55 pm – 2:45 pm).
    * Sessions will be recorded for students who are not able to attend synchronously. However, if possible, synchronous attendance is preferrable as you can interact with the presenters.
 
+## Contact
+
+For questions or more information, please contact: Matt Gitzendanner [magitz@ufl.edu](mailto:magitz@ufl.edu)
