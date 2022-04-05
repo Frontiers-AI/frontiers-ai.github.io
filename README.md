@@ -1,5 +1,5 @@
 # Frontiers in AI
-![Frontiers in AI](images/frontiers_in_AI.png)
+![Text in script font: Frontiers in AI](images/frontiers_in_AI.png)
 
 ## Summary
 Explore artificial intelligence (AI) and how it is used to solve real-world problems in a wide variety of disciplines. Presentations will be from faculty and industry experts who study AI technologies in science, art, medicine, business, and more, and will equip students to think about how AI can be applied to their areas of interest. Intended for students from any major/discipline, no technical experience needed. No prerequisites.
@@ -14,6 +14,7 @@ Explore artificial intelligence (AI) and how it is used to solve real-world prob
 
 In this course, you will learn what artificial intelligence (AI) is (from a high-level, conceptual standpoint) and how it is used to solve real-world problems in a wide variety of disciplines.  This course will give you a broad overview of how AI technologies are transforming science, art, medicine, business, and more, and it will equip you to think about how AI might be applied to your own areas of interest.  **This course is intended for students from any major/discipline, and you do not need to have previous AI or technical expertise.**  For most class sessions, we will learn about applications of AI directly from researchers at UF and from industry who use AI in their work.  We invite you to join us in exploring this interesting and important field!
 
+![Icons representing the diverse disciplines discussed, including law, ethics, medicine, agriculture, language, and education.](images/ai_icons.png)
 
 ## Course Objectives
 
