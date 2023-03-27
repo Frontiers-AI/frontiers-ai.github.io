@@ -1,0 +1,4 @@
+# Build settings
+sass:
+  sass_dir: css
+  style: compressed
