@@ -1,16 +1,20 @@
-# Frontiers in AI
-![Text in script font: Frontiers in AI](images/frontiers_in_AI.png)
+# Frontiers of AI
+![Text in script font: Frontiers of AI](images/frontiers_in_AI.png)
 
 ## Summary
 Explore artificial intelligence (AI) and how it is used to solve real-world problems in a wide variety of disciplines. Presentations will be from faculty and industry experts who study AI technologies in science, art, medicine, business, and more, and will equip students to think about how AI can be applied to their areas of interest. Intended for students from any major/discipline, no technical experience needed. No prerequisites.
 
 ## Registration information
-* [BSC2930, Class 28343](https://one.uf.edu/soc/?category=%22CWSP%22&term=%222228%22&class-num=%2228343%22): 1 credit, online course, synchronous or asynchronous.
-* BSC2930, Class 28342: Dual enrolment students, please coordinate with your advisor
+
+Three options:
+
+* [IDS1703, Class 27203](https://one.uf.edu/soc/?category=%22CWSP%22&term=%222238%22&course-code=%22IDS1703%22): 1 credit, online course, **synchronous** for UF on Campus students
+* [IDS1703, Class 2806](https://one.uf.edu/soc/?category=%22UFOL%22&term=%222238%22&course-code=%22IDS1703%22): 1 credit, online course, **asynchronous** for UF Online students
+* **IDS1793**: 1 credit, online course, **asynchronous**, for Alachua County Dual Enrollment students. Please work with your advisor to register.
 
 > Note this course was formerly offered as **EGN1935**. This is a new course number for the same course.
 
-## About *Frontiers in AI*
+## About *Frontiers of AI*
 
 In this course, you will learn what artificial intelligence (AI) is (from a high-level, conceptual standpoint) and how it is used to solve real-world problems in a wide variety of disciplines.  This course will give you a broad overview of how AI technologies are transforming science, art, medicine, business, and more, and it will equip you to think about how AI might be applied to your own areas of interest.  **This course is intended for students from any major/discipline, and you do not need to have previous AI or technical expertise.**  For most class sessions, we will learn about applications of AI directly from researchers at UF and from industry who use AI in their work.  We invite you to join us in exploring this interesting and important field!
 
